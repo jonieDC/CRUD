@@ -20,7 +20,7 @@ copy .env.example .env
  composer update
  php artisan key:generate
 ```
-* edit the .env.example for the connecton of database
+* edit the .env file for the connecton of database
 * then execute this command in the directory of CRUD folder using powershell or command line
 ```
  php artisan serv
