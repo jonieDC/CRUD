@@ -19,7 +19,6 @@ demonstrate the read,create,update and delete using laravel
 copy .env.example .env
  composer update
  php artisan key:generate
- php artisan serv
 ```
 * edit the .env.example for the connecton of database
 * then execute this command in the directory of CRUD folder using powershell or command line
